@@ -1,0 +1,17 @@
+# GUI
+PyQt6>=6.6.0
+pyqtgraph>=0.13.3
+
+# Well Log
+lasio>=0.31
+
+# Data Processing
+numpy>=1.26.0
+pandas>=2.1.0
+scipy>=1.11.0
+
+# AI Local (Ollama)
+ollama>=0.3.0
+
+# Utilities
+python-dotenv>=1.0.0
